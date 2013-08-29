@@ -1,0 +1,30 @@
+#define IDR_VERSION1 1
+
+LANGUAGE 4,2
+
+129 ICON DISCARDABLE "res/icon.ico"
+
+IDR_VERSION1 VERSIONINFO
+FILEVERSION 0,1,0,0
+PRODUCTVERSION 0,1,0,0
+FILEOS 0x00000004
+FILETYPE 0x00000001
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "08040000"
+    BEGIN
+      VALUE "FileVersion", "0.1.0.0\0"
+      VALUE "ProductVersion", "0.1.0.0\0"
+      VALUE "CompanyName", "Hyello\0"
+      VALUE "FileDescription", "Hyello“Ù¿÷≤•∑≈∆˜\0"
+      VALUE "InternalName", "HyelloMP\0"
+      VALUE "ProductName", "Hyello Music Player\0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x0804, 0x0000
+  END
+END
+
