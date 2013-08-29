@@ -14,6 +14,6 @@ The use of ExDUI interface library, to beautify the interface. <br>
 By using multi thread technology, coordination procedures, make use of more rapid. <br>
 3, the utility function <br>
 Individual lyrics, music search...... Waiting for your discovery. <br>
-===================
+
 目前正在开发中。。。
 Currently under development...
