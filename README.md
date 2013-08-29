@@ -21,3 +21,5 @@ Currently under development...
 
 本程序使用易语言编写。可以使用黑月编译器插件编译。
 本人QQ：1552411350 邮箱：hyelloemail@qq.com
+This program is written in EPL to use. You can use Blackmoon Compiler Plugin.
+My QQ:1552411350 e-mail: hyelloemail@qq.com
