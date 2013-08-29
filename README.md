@@ -17,3 +17,7 @@ Individual lyrics, music search...... Waiting for your discovery. <br>
 
 目前正在开发中。。。
 Currently under development...
+
+
+本程序使用易语言编写。可以使用黑月编译器插件编译。
+本人QQ：1552411350 邮箱：hyelloemail@qq.com
